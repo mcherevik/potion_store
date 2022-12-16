@@ -14,6 +14,7 @@ public class Main {
         int rnd = new Random().nextInt(array.length);
         return array[rnd];
     }
+    // changing something
 
     public static void main(String[] args) throws InterruptedException {
 
