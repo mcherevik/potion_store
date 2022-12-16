@@ -15,6 +15,7 @@ public class Main {
         return array[rnd];
     }
     // changing something
+    // second change
 
     public static void main(String[] args) throws InterruptedException {
 
